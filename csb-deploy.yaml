@@ -6,7 +6,7 @@ metadata:
   annotations:
     displayName: "Compose Service Broker"
     description: "Broker to present and deploy service catalog items via an instance of Atos Canopy Compose"
-    tags: "broker"
+    tags: "broker,php,quickstart"
 objects:
 - apiVersion: v1
   kind: Secret
